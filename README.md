@@ -50,20 +50,6 @@ It summarizes the **architectures, benchmarks, and interpretability techniques**
 
 ---
 
-## 📊 Repository Structure
-
-deep-tabular-learning-2025-survey/
-│
-├── README.md # Project overview (this file)
-├── paper_summary/ # Key notes, figures, and extracted findings
-├── slides/ # Presentation slides (PDF or PPT)
-├── video/ # 10–15 minute recorded walkthrough
-├── medium_article/ # Draft or text of the Medium post
-└── assets/ # Images, charts, and visualizations
-
-
----
-
 ## 🧾 Deliverables
 
 | Deliverable | Description | Link |
