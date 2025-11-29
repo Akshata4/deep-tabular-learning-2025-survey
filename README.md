@@ -4,6 +4,17 @@
 
 ---
 
+## 🧾 Deliverables
+
+| Deliverable | Description | Link |
+|--------------|--------------|------|
+| 📰 **Medium Article** | Published summary article with visuals and commentary | [Medium Link Here](https://medium.com/@akshatamadavi/deep-learnings-blind-spot-the-table-problem-a91150a38369) |
+| 📑 **Slide Deck** | Visual presentation summarizing the paper | [Slides Link Here](https://docs.google.com/presentation/d/1crsNDaJgJHQ8LgxkcQB-fL7D3lZ7KaencwedkxoNOow/edit?usp=sharing) |
+| 🎥 **Video Presentation** | 10–15 min recorded walkthrough with slides | [Video Link Here](https://youtu.be/8yMPbAK1DR4) |
+| 💻 **GitHub Repository** | Contains all files and assets | [This Repo](https://github.com/Akshata4/deep-tabular-learning-2025-survey/edit/main) |
+
+---
+
 ## 📘 Overview
 
 This repository contains the deliverables for the **Short Story Assignment** based on the 2025 survey paper  
@@ -50,25 +61,6 @@ It summarizes the **architectures, benchmarks, and interpretability techniques**
 
 ---
 
-## 🧾 Deliverables
-
-| Deliverable | Description | Link |
-|--------------|--------------|------|
-| 📰 **Medium Article** | Published summary article with visuals and commentary | [Add Medium Link Here](#) |
-| 📑 **Slideshare Deck** | Visual presentation summarizing the paper | [Add Slideshare Link Here](#) |
-| 🎥 **Video Presentation** | 10–15 min recorded walkthrough with slides | [Add Video Link Here](#) |
-| 💻 **GitHub Repository** | Contains all files and assets | [This Repo](#) |
-
----
-
-## 🧩 How to Use
-
-1. Browse the **paper_summary/** folder for detailed notes and visuals.  
-2. View the **slides/** folder for presentation content.  
-3. Read the full **Medium article** for summarized insights.  
-4. Watch the **video/** for the 10–15 minute presentation overview.
-
----
 
 ## 📚 References
 
@@ -86,10 +78,10 @@ It summarizes the **architectures, benchmarks, and interpretability techniques**
 
 ## ✨ Author
 
-**[Akshata Madavi]**  
+**Akshata Madavi**  
 *Graduate Student, San Jose State University*  
 📧 [akshata.madavi@sjsu.edu]  
-🔗 [Your LinkedIn or Medium Profile]
+
 
 ---
 
