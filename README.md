@@ -11,7 +11,7 @@
 | 📰 **Medium Article** | Published summary article with visuals and commentary | [Medium Link Here](https://medium.com/@akshatamadavi/deep-learnings-blind-spot-the-table-problem-a91150a38369) |
 | 📑 **Slide Deck** | Visual presentation summarizing the paper | [Slides Link Here](https://docs.google.com/presentation/d/1crsNDaJgJHQ8LgxkcQB-fL7D3lZ7KaencwedkxoNOow/edit?usp=sharing) |
 | 🎥 **Video Presentation** | 10–15 min recorded walkthrough with slides | [Video Link Here](https://youtu.be/8yMPbAK1DR4) |
-| 💻 **GitHub Repository** | Contains all files and assets | [This Repo](https://github.com/Akshata4/deep-tabular-learning-2025-survey/edit/main) |
+| 💻 **GitHub Repository** | Contains all files and assets | [This Repo](https://github.com/Akshata4/deep-tabular-learning-2025-survey) |
 
 ---
 
